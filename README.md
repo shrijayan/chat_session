@@ -1,0 +1,2 @@
+- one for new session 
+- one for continuous conversation where we'll receive one session identifier and continue that session
